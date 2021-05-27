@@ -6,7 +6,9 @@ NORIS YERITZA RAMIREZ CALDERON 1950198
 Este es un trabajo en el cual visualizaremos una base de datos con la
 calidad del aire en la ciudad de Nueva York, observando los criterios de
 clasificacion del **AIRLIQUALITY**, para esto vamos a emplear una base
-de datos online. \#\# Including Code
+de datos online.
+
+## Including Code
 
 You can include R code in the document as follows:
 
