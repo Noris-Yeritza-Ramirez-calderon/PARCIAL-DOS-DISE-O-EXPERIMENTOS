@@ -1,13 +1,12 @@
-Untitled
+NORIS YERITZA RAMIREZ CALDERON 1950198
 ================
 
-## GitHub Documents
+## Mediciones diarias de la calidad del aire en Nueva York
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
-
-## Including Code
+Este es un trabajo en el cual visualizaremos una base de datos con la
+calidad del aire en la ciudad de Nueva York, observando los criterios de
+clasificacion del **AIRLIQUALITY**, para esto vamos a emplear una base
+de datos online. \#\# Including Code
 
 You can include R code in the document as follows:
 
